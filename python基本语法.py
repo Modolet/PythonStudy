@@ -20,7 +20,8 @@ python有四种数字类型
 int
 bool
 float
-complex(复数)
+complex(复数)：a+bj
+    如：3.14j
 '''
 
 '''
